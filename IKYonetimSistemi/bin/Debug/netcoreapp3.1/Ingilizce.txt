@@ -1,0 +1,16 @@
+Yunus Emre |Coşkun |05318612790 |ingilizce,almanca |Kartaltepe |09.03.1888 |B |jrewin@hotmail.comlisans |kocaeli üniversitesi |bilişim |2017 |2021 |2,64 | || |
+Mert |Toprak |0546542312 |ingilizce, |Güngören |15.03.1888 |A |mert@hotmail.comlisans |kocaeli üniversitesi |bilişim |2017 |2021 |2,64Secube |Pendik |2017|2022 |Yazılım Stajyeri
+Yunus Emre |Coşkun |05318612790 |ingilizce,almanca |Kartaltepe |09.03.1888 |B |jrewin@hotmail.comlisans |kocaeli üniversitesi |bilişim |2017 |2021 |2,64Armada |Levent |2015|2021 |Stajyer
+Mert |Toprak |0546542312 |ingilizce, |Güngören |15.03.1888 |A |mert@hotmail.comlisans |kocaeli üniversitesi |bilişim |2017 |2021 |2,64Secube |Pendik |2017|2022 |Yazılım Stajyeri
+Yunus Emre |Coşkun |05318612790 |ingilizce,almanca, |Kartaltepe |09.03.1888 |B |jrewin@hotmail.comlisans |kocaeli üniversitesi |bilişim |2017 |2021 |2,64Armada |Levent |2015|2021 |Stajyer
+Mert |Toprak |0546542312 |ingilizce, |Güngören |15.03.1888 |A |mert@hotmail.comlisans |kocaeli üniversitesi |bilişim |2017 |2021 |2,64Secube |Pendik |2017|2022 |Yazılım Stajyeri
+Yunus Emre |Coşkun |05318612790 |ingilizce,almanca, |Kartaltepe |09.03.1997 |B |jrewin@hotmail.comkocaeli üniversitesi |lisans |bilişim |2017 |2021 |2,64Armada |Levent |2015|2021 |Stajyer
+Mert |Toprak |0546542312 |ingilizce, |Güngören |15.03.1999 |A |mert@hotmail.comkocaeli üniversitesi |lisans |bilişim |2017 |2021 |2,64Secube |Pendik |2017|2022 |Yazılım Stajyeri
+Ali |kaya |5321234567 |ingilizce,fransızca, |İstanbul |09.03.1985 |A2,B |akaya@gmail.comYıldız Teknik |lisans |bilgisayar müh |2004 |2009 |2,5Burger |İstanbul |2015|2017 |Vardiya Müdürü
+Aslı |Yel |5421234567 |ingilizce, |Trabzon |09.03.1970 | |ayel@yahoo.comOdtü |Lisans |elektrik-elektronik müh |1992 |1996 |3Türk Telekom |Trabzon |2000|2010 |Mühendis
+Ali |Kaya |5321234567 |ingilizce,fransızca, |İstanbul |09.03.1985 |A2,B |akaya@gmail.comYıldız Teknik |lisans |bilgisayar müh |2004 |2009 |2,5Burger |İstanbul |2015|2017 |Vardiya Müdürü
+Aslı |Yel |5421234567 |ingilizce, |Trabzon |09.03.1970 | |ayel@yahoo.comOdtü |Lisans |elektrik-elektronik müh |1992 |1996 |3Türk Telekom |Trabzon |2000|2010 |Mühendis
+Ali |Kaya |5321234567 |ingilizce,fransızca, |İstanbul |09.03.1985 |A2,B |akaya@gmail.comYıldız Teknik |lisans |bilgisayar müh |2004 |2009 |2,5Burger |İstanbul |2015|2017 |Vardiya Müdürü
+Aslı |Yel |5421234567 |İngilizce, |Trabzon |09.03.1970 | |ayel@yahoo.comOdtü |Lisans |elektrik-elektronik müh |1992 |1996 |3Türk Telekom |Trabzon |2000|2010 |Mühendis
+Ali |Kaya |5321234567 |ingilizce,fransızca, |İstanbul |09.03.1985 |A2,B |akaya@gmail.comYıldız Teknik |lisans |bilgisayar müh |2004 |2009 |2,5Burger |İstanbul |2015|2017 |Vardiya Müdürü
+Aslı |Yel |5421234567 |İngilizce, |Trabzon |09.03.1970 | |ayel@yahoo.comOdtü |Lisans |elektrik-elektronik müh |1992 |1996 |3Türk Telekom |Trabzon |2000|2010 |Mühendis

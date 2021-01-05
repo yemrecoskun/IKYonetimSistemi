@@ -1,0 +1,4 @@
+Mehmet |Sağlam |5051234567 | |Kocaeli |09.03.1990 |B |msaglam@hotmail.comIsparta Anadolu Lisesi |Lise |Sayısal |2005 |2009|92|Kocaeli Üniversitesi |Lisans |Bilgisayar Müh |2010 |2015|75|
+Mehmet |Sağlam |5051234567 | |Kocaeli |09.03.1990 |B |msaglam@hotmail.comIsparta Anadolu Lisesi |Lise |Sayısal |2005 |2009|92|Kocaeli Üniversitesi |Lisans |Bilgisayar Müh |2010 |2015|75|
+Mehmet |Sağlam |5051234567 | |Kocaeli |09.03.1990 |B |msaglam@hotmail.comIsparta Anadolu Lisesi |Lise |Sayısal |2005 |2009|92|Kocaeli Üniversitesi |Lisans |Bilgisayar Müh |2010 |2015|75|
+Mehmet |Sağlam |5051234567 | |Kocaeli |09.03.1990 |B |msaglam@hotmail.comIsparta Anadolu Lisesi |Lise |Sayısal |2005 |2009|92|Kocaeli Üniversitesi |Lisans |Bilgisayar Müh |2010 |2015|75|

@@ -1,0 +1,8 @@
+Yunus Emre |Coşkun |05318612790 |ingilizce, |Kartaltepe |09.03.1888 |B |jrewin@hotmail.com2017 |2021 |bilişim |lisans |2,64 |kocaeli üniversitesiSecube |Pendik |2017|2022 |Yazılım Stajyeri
+Yunus Emre |Coşkun |05318612790 |ingilizce, |Kartaltepe |09.03.1888 |B |jrewin@hotmail.com2017 |2021 |bilişim |lisans |2,64 |kocaeli üniversitesiSecube |Pendik |2017|2022 |Yazılım Stajyeri
+Ali |Kaya |5321234567 |ingilizce,fransızca, |İstanbul |09.03.1985 |A2,B |akaya@gmail.comYıldız Teknik |lisans |bilgisayar müh |2004 |2009 |2,5Burger |İstanbul |2015|2017 |Vardiya Müdürü
+Mehmet |Sağlam |5051234567 | |Kocaeli |09.03.1990 |B |msaglam@hotmail.comKocaeli üniversitesi |Lisans |bilgisayar müh |2010 |2015 |2,75 | || |
+Aslı |Yel |5421234567 |İngilizce, |Trabzon |09.03.1970 | |ayel@yahoo.comOdtü |Lisans |elektrik-elektronik müh |1992 |1996 |3Türk Telekom |Trabzon |2000|2010 |Mühendis
+Neriman |Koç |5331234567 |Almanca, |Ankara |09.03.1988 |E |nkoca@ymail.comEge Üniversitesi |Lisans |elektronik haberleşme müh |2005 |2010 |2.25Ege Üni Elektronik Haberleşme |İzmir |2015|2018 |Araştırma Görevlisi
+Ahmet |Sarı |5071234567 |Arapça, İngilizce, Almanca, |Manisa |09.03.1989 |B |asari@gmail.comSelçuk Üniversitesi |Lisans |Matematik Bilgisayar |2009 |2012 |2.25AG Software |Konya |2015|2017 |Programcı
+Selim |Mert |506123456 | |İstanbul |09.03.1985 |B |smert@gmail.comMarmara Üniversitesi |Lisans |Elektronik Mühendisliği |2004 |2010 |2.77KAREL |İstanbul |2015|2020 |Gömülü Yazılım Mühendisi

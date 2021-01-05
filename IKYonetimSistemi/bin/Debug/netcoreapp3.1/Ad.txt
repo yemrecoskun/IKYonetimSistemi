@@ -1,0 +1,2 @@
+Mert |Toprak |0546542312 |ingilizce, |Güngören |15.03.1888 |A |mert@hotmail.comlisans |kocaeli üniversitesi |bilişim |2017 |2021 |2,64Secube |Pendik |2017|2022 |Yazılım Stajyeri
+Mehmet |Sağlam |5051234567 | |Kocaeli |09.03.1990 |B |msaglam@hotmail.comKocaeli üniversitesi |Lisans |bilgisayar müh |2010 |2015 |2,75 | || |
